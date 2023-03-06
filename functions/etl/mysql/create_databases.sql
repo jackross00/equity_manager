@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 /* using loose datavault methodology */
-=======
->>>>>>> 8f24867 (new repo)
 CREATE DATABASE staging;
 CREATE DATABASE data;
 
