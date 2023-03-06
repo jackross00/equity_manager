@@ -1,0 +1,1 @@
+docker run --detach --name=equity_manager -p 3306:3306 equity_manager:0.1
